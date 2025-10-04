@@ -75,10 +75,12 @@ All pages have been validated using:
 - WAVE Web Accessibility Evaluation Tool
 
 ## Live Site
-[View Live Portfolio](https://YOUR-USERNAME.github.io/portfolio---website/)
+[View Live Portfolio](https://1adyan.github.io/portfolio---website/)
 
 ## Repository
-[GitHub Repository](https://github.com/YOUR-USERNAME/portfolio---website)
+[GitHub Repository]https://github.com/1adyan/portfolio---website/tree/main?tab=readme-ov-file
+
+
 
 ## Author
 Adyan Iqbal

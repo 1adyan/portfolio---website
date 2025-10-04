@@ -10,7 +10,7 @@ Light: #ECF0F1 (Light Grey)
 Dark: #34495E (Dark Grey)
 ========================= */
 
-/* ===== GLOBAL STYLES ===== */
+
 * {
     margin: 0;
     padding: 0;
@@ -24,7 +24,7 @@ body {
     color: #2C3E50;
 }
 
-/* ===== WRAPPER ===== */
+
 #wrapper {
     width: 960px;
     margin: 0 auto;
@@ -32,7 +32,7 @@ body {
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
 }
 
-/* ===== HEADER WITH LINEAR GRADIENT ===== */
+
 header {
     background: #2C3E50; /* Fallback for older browsers */
     background: -moz-linear-gradient(top, #2C3E50 0%, #34495E 100%);
@@ -50,7 +50,7 @@ header h1 {
     font-weight: 300;
 }
 
-/* ===== NAVIGATION ===== */
+
 nav {
     background-color: #34495E;
     padding: 10px 0;
@@ -80,13 +80,13 @@ nav ul li a:hover {
     border-radius: 5px;
 }
 
-/* ===== MAIN CONTENT ===== */
+
 main {
     padding: 30px;
     min-height: 500px;
 }
 
-/* ===== SECTIONS ===== */
+
 section {
     margin-bottom: 30px;
 }
@@ -110,7 +110,7 @@ section p {
     line-height: 1.8;
 }
 
-/* ===== HOME PAGE HERO ===== */
+
 #hero {
     text-align: center;
     padding: 50px 20px;
@@ -128,7 +128,7 @@ section p {
     color: #3498DB;
 }
 
-/* ===== ABOUT PAGE - ARTICLE & ASIDE ===== */
+
 article {
     position: relative;
 }
@@ -160,7 +160,7 @@ aside ul li:last-child {
     border-bottom: none;
 }
 
-/* ===== FIGURE AND FIGCAPTION ===== */
+
 figure {
     float: left;
     width: 320px;
@@ -185,7 +185,7 @@ figcaption {
     font-size: 0.9rem;
 }
 
-/* ===== VIDEO ===== */
+
 video {
     width: 100%;
     max-width: 640px;
@@ -195,7 +195,7 @@ video {
     border: 2px solid #34495E;
 }
 
-/* ===== PROJECTS PAGE - PROJECT CARDS WITH ANGLE GRADIENT ===== */
+
 #projects-list {
     clear: both;
 }
@@ -227,7 +227,7 @@ video {
     font-size: 0.95rem;
 }
 
-/* ===== CONTACT FORM ===== */
+
 form {
     max-width: 600px;
     margin: 0 auto;
@@ -289,7 +289,7 @@ input[type="reset"]:hover {
     background-color: #c0392b;
 }
 
-/* ===== FOOTER ===== */
+
 footer {
     background-color: #2C3E50;
     color: white;
@@ -312,12 +312,12 @@ footer a:hover {
     text-decoration: underline;
 }
 
-/* ===== CLEAR FLOAT ===== */
+
 .clear {
     clear: both;
 }
 
-/* ===== UTILITY CLASSES ===== */
+
 .text-center {
     text-align: center;
 }
